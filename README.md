@@ -19,7 +19,7 @@
 <tr>
   <td width="80" align="center" valign="top">
     <br>
-    <a href="https://github.com/Aelysium-Group/rusty-connector/wiki"><img src="../images/logo/rc-logo.webp"></a>
+    <a href="https://github.com/Aelysium-Group/rusty-connector/wiki"><img src="./blob/images/logo/rc-logo.webp"></a>
   </td>
   <td valign="top">
     <h3>Wiki</h3>
@@ -31,7 +31,7 @@
 <tr>
   <td width="80" align="center" valign="top">
     <br>
-    <a href="https://github.com/Aelysium-Group/rusty-connector/releases"><img src="../images/logo/rc-logo.webp"></a>
+    <a href="https://github.com/Aelysium-Group/rusty-connector/releases"><img src="./blob/images/logo/rc-logo.webp"></a>
   </td>
   <td valign="top">
   <h3>下載插件</h3>
@@ -43,7 +43,7 @@
 <tr>
   <td width="80" align="center" valign="top">
     <br>
-    <a href="https://join.aelysium.group"><img src="../images/logo/rc-logo.webp"></a>
+    <a href="https://join.aelysium.group"><img src="./blob/images/logo/rc-logo.webp"></a>
   </td>
   <td>
   <h3>幫助支持</h3>
@@ -55,7 +55,7 @@
 <tr>
   <td width="80" align="center" valign="top">
     <br>
-    <a href="https://github.com/Aelysium-Group/rusty-connector/issues"><img src="../images/logo/rc-logo.webp"></a>
+    <a href="https://github.com/Aelysium-Group/rusty-connector/issues"><img src="./blob/images/logo/rc-logo.webp"></a>
   </td>
   <td>
   <h3>BUG反饋</h3>
@@ -76,7 +76,7 @@
 <tr>
   <td width="80" align="center" valign="top">
     <br>
-    <a href="https://modrinth.com/plugin/rustyconnector"><img src="../images/logo/modrinth.svg"></a>
+    <a href="https://modrinth.com/plugin/rustyconnector"><img src="./blob/images/logo/modrinth.svg"></a>
   </td>
   <td valign="top">
     <h3>Modrinth</h3>
@@ -88,7 +88,7 @@
 <tr>
   <td width="80" align="center" valign="top">
     <br>
-    <a href="https://hangar.papermc.io/nathan-i-martin/RustyConnector"><img src="../images/logo/hanger.svg"></a>
+    <a href="https://hangar.papermc.io/nathan-i-martin/RustyConnector"><img src="./blob/images/logo/hangar.svg"></a>
   </td>
   <td valign="top">
     <h3>Hanger</h3>
